@@ -1,0 +1,9 @@
+.field--name-field-product-multiple-images .field--item {
+  display: inline-block;
+}
+.form-item-purchased-entity-0-attributes-attribute-size {
+  width: 20%;
+}
+.field--name-field-product-multiple-images .field--item:hover {
+  cursor: pointer;
+}

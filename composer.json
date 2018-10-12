@@ -5,7 +5,9 @@
     "license": "GPL-2.0-or-later",
     "require": {
         "composer/installers": "^1.0.24",
-        "wikimedia/composer-merge-plugin": "^1.4"
+        "wikimedia/composer-merge-plugin": "^1.4",
+        "phpmailer/phpmailer": "^5.2.21",
+        "league/oauth2-google": "^2.2"
     },
     "replace": {
         "drupal/core": "^8.6"

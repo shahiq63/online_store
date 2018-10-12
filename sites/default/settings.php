@@ -779,3 +779,6 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $config_directories['sync'] = 'sites/default/files/config_hC_FgH1lyIaara-oDOSCYYqHv2az5b8n4GQpFDhvTFYVcLaphOED1aivBXQkqhVRCLsJYIVvYQ/sync';
+if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
+  include $app_root . '/' . $site_path . '/settings.local.php';
+}

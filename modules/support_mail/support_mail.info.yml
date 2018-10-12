@@ -1,0 +1,10 @@
+name: Support Mail
+# core: 8.x
+description: Sends an email from the site.
+type: module
+
+# Information added by Drupal.org packaging script on 2018-04-10
+version: '8.x-1.2'
+core: '8.x'
+project: 'support_mail'
+datestamp: 1523350990
